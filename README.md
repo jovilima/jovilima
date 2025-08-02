@@ -31,7 +31,7 @@
             title="Conta do Codepen"
             src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
          /> 
-    <a href="https://github.com/jvlimadev?tab=repositories&sort=stargazers">
+    <a href="https://github.com/jovilima?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
